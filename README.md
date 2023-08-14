@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Credit card clustering
 This notebook aims to explore the clustering of credit card data, using a dataset available in Kaggle.
 
